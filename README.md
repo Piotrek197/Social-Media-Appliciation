@@ -1,5 +1,5 @@
 # Social Media Application
-
+React CRUD Social Media Application
 
 ## Funcionality
 At the begining user can log in or create a new account. After creating an account user can see main page, that displays posts from subscribed users.
